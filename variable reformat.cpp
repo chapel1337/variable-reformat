@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string>
 
+// written by chapel1337
+// made on 9/5/2022
+
 void reformat(std::string theString)
 {
     unsigned int equal{ theString.find('=', 0) };
